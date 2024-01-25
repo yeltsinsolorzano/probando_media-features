@@ -1,0 +1,7 @@
+/* CONFIGURACIONES CON EL EQUIPO DE PIE (MODO PORTRAIT) */
+
+body {
+    background-image: url(../imagenes/cev-portrait.jpg);
+    background-position: center bottom;
+}
+

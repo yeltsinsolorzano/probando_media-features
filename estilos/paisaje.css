@@ -1,0 +1,6 @@
+/* CONFIGURACIONES CON EL EQUIPO ACOSTAOD (MODO LANDSCAPE) */
+
+body {
+    background-image: url(../imagenes/cev-landscape.jpg);
+    background-position: left bottom;
+}
